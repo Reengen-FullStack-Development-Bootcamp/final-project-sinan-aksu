@@ -1,10 +1,15 @@
 <h2 align="center"> Energy Analytics Platform</h2>
-<p align="center">An energy monitoring and analysis platform under development with express.js and vue.js.<br /><br />
+<p align="center">An energy monitoring and analysis platform under development with express.js and vue.js.<br />
+Test User: test@test.com<br />
+Test Pass: Pass.1234<br />
 <h3  align="center">You can view the <a href="https://reengen.xyz/">reengen.xyz live demo here</a>.</h3>
+
 </p>
 <hr />
+<img src="https://raw.githubusercontent.com/Reengen-FullStack-Development-Bootcamp/final-project-sinan-aksu/main/preview.gif" width="100%" />
+<hr />
 
-
+[Backend Repository](https://github.com/sinanaksu/energy-analytics-api)
 ### Backend built with
 
 - [express.js](https://expressjs.com/)
@@ -14,6 +19,9 @@
 - [Lodash](https://lodash.com/)
 - [validator.js](https://github.com/validatorjs/validator.js)
 
+<hr />
+
+[Frontend Repository](https://github.com/sinanaksu/energy-analytics-dashboard)
 ### Frontend built with
 
 - [Vue.js](https://vuejs.org/)
